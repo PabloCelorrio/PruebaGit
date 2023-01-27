@@ -64,6 +64,7 @@ public class JuegoPrincipal {
 		
 		sc.close();
 		System.out.println("Gracias por jugar.");
+		System.out.println("Diseñado por Pablo Celorrio");
 	}
 
 }
